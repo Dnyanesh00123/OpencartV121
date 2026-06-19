@@ -1,0 +1,109 @@
+18:30:19.488 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml"
+18:30:19.905 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml
+
+18:30:41.215 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml"
+18:30:41.396 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml
+
+18:31:04.533 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+18:31:04.630 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+18:31:05.186 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+18:31:05.202 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+18:31:08.140 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+18:31:12.179 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001_AccountRegistrationTest Finished***
+18:31:14.799 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+18:31:16.703 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Finished ***
+18:33:43.881 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml"
+18:33:44.157 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml
+
+18:33:48.733 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+18:33:48.884 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+18:33:49.400 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+18:33:49.405 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+18:33:50.185 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+18:33:55.428 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001_AccountRegistrationTest Finished***
+18:33:57.302 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+18:33:59.391 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Finished ***
+18:43:34.899 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml"
+18:43:35.139 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml
+
+18:43:41.258 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+18:43:41.466 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+18:43:42.517 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+18:43:42.522 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+18:43:44.412 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+18:43:48.476 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001_AccountRegistrationTest Finished***
+18:43:53.038 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+18:43:54.910 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Finished ***
+18:46:17.252 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml"
+18:46:17.612 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml
+
+18:46:19.981 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+18:47:55.499 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml"
+18:47:55.766 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml
+
+19:45:38.149 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml"
+19:45:38.372 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml
+
+19:45:44.722 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+19:45:44.919 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+19:45:45.906 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+19:45:45.911 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+19:45:48.381 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+19:45:52.455 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001_AccountRegistrationTest Finished***
+19:45:55.686 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+19:45:58.031 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Finished ***
+19:46:06.826 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+19:46:07.055 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+19:46:08.155 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+19:46:08.156 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+19:46:11.121 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+19:46:15.197 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001_AccountRegistrationTest Finished***
+19:46:21.022 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+19:46:23.424 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Finished ***
+19:49:07.522 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml"
+19:49:07.760 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml
+
+19:49:10.635 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+19:49:10.786 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+19:49:11.432 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+19:49:11.437 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+19:49:12.393 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+19:49:18.649 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001_AccountRegistrationTest Finished***
+19:49:21.509 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+19:49:23.730 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Finished ***
+19:49:29.945 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+19:49:30.206 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+19:49:30.866 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+19:49:30.868 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+19:49:32.299 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+19:49:36.365 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001_AccountRegistrationTest Finished***
+19:49:40.598 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+19:49:42.389 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Finished ***
+19:51:20.664 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml"
+19:51:20.883 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dnyan\Selenium-workspace\OpencartV121\grid-docker.xml
+
+19:51:24.073 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+19:51:24.278 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+19:51:24.818 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+19:51:24.822 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+19:51:25.824 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+19:51:31.021 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001_AccountRegistrationTest Finished***
+19:51:33.697 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+19:51:35.870 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Finished ***
+19:51:46.070 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+19:51:46.229 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+19:51:46.782 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+19:51:46.783 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+19:51:48.414 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+19:51:52.461 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001_AccountRegistrationTest Finished***
+19:51:57.038 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+19:51:59.003 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Finished ***

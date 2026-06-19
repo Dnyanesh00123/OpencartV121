@@ -1,0 +1,9 @@
+17:17:54.640 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dnyan\Selenium-workspace\OpencartV121\master.xml"
+17:18:02.756 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+17:18:05.097 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Finished ***
+18:40:52.524 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dnyan\Selenium-workspace\OpencartV121\master.xml"
+18:40:57.163 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+18:40:59.721 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Finished ***
+19:22:25.696 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dnyan\Selenium-workspace\OpencartV121\master.xml"
+19:22:28.926 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+19:22:30.624 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Finished ***
