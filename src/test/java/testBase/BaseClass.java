@@ -3,6 +3,7 @@ package testBase;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.net.URI;
 import java.net.URL;
 import java.text.SimpleDateFormat;
 import java.time.Duration;
@@ -70,10 +71,8 @@ public class BaseClass {
 		default : System.out.println("No matching browser"); break ;
 		}
 		
-		driver = new RemoteWebDriver(new URL(" http://10.203.99.70:4444/wd/hub"), capabilities);
-		
+		driver = new RemoteWebDriver(URI.create("http://localhost:4444").toURL(), capabilities);//URL(" http://10.203.99.70:4444/wd/hub")
 		}
-		
 		
 		//Local execution
 		if(p.getProperty("execution_env").equalsIgnoreCase("local")) {
