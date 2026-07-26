@@ -66,12 +66,13 @@ public class BaseClass {
 		//browser
 		switch(br.toLowerCase()) {
 		case "chrome": capabilities.setBrowserName("chrome"); break;
-		case "edge" : capabilities.setBrowserName("MicrosofEdge"); break;
+		case "edge" : capabilities.setBrowserName("MicrosoftEdge"); break;
 		case "firefox" : capabilities.setBrowserName("firefox"); break;
 		default : System.out.println("No matching browser"); break ;
 		}
 		
 		driver = new RemoteWebDriver(URI.create("http://localhost:4444").toURL(), capabilities);//URL(" http://10.203.99.70:4444/wd/hub")
+		
 		}
 		
 		//Local execution
@@ -83,6 +84,7 @@ public class BaseClass {
 		default : System.out.println("Invalid driver"); return;
 		}
 		}
+		System.out.println(driver.getClass().getName());
 		
 		
 		driver.manage().deleteAllCookies();
