@@ -8,3 +8,9 @@
 18:22:46.903 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
 18:22:49.266 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
 18:22:53.313 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001_AccountRegistrationTest Finished***
+19:09:37.993 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dnyan\Selenium-workspace\OpencartV121\master.xml"
+19:09:38.289 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dnyan\Selenium-workspace\OpencartV121\master.xml
+
+19:09:45.215 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+19:09:47.830 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Finished ***
