@@ -43,6 +43,12 @@ public class BaseClass {
 		
 		logger = LogManager.getLogger(this.getClass());//log4j2 
 		
+		// Get execution environment
+           String executionEnv = p.getProperty("execution_env");
+
+       // Print execution environment
+          System.out.println("Execution Environment : " + executionEnv);
+		
 		//Remote execution
 		if(p.getProperty("execution_env").equalsIgnoreCase("remote"))
 		{
