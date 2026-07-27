@@ -47,7 +47,7 @@ public class BaseClass {
            String executionEnv = p.getProperty("execution_env");
 
        // Print execution environment
-          System.out.println("Execution Environment : " + execution_env);
+          System.out.println("Execution Environment : " + executionEnv);
 		
 		//Remote execution
 		if(p.getProperty("execution_env").equalsIgnoreCase("remote"))

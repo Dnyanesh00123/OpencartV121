@@ -1,0 +1,6 @@
+19:34:16.857 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dnyan\Selenium-workspace\OpencartV121\master.xml"
+19:34:17.112 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dnyan\Selenium-workspace\OpencartV121\master.xml
+
+19:34:24.990 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+19:34:26.462 [main] INFO  testCases.TC002_LoginTest - *** TC002_LoginTest Finished ***
