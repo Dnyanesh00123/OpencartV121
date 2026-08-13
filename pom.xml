@@ -21,7 +21,7 @@
           <version>3.5.2</version>
           <configuration>
              <suiteXmlFiles>
-               <suiteXmlFile>master.xml</suiteXmlFile>
+               <suiteXmlFile>parallel.xml</suiteXmlFile>
              </suiteXmlFiles>
           </configuration>
         </plugin>

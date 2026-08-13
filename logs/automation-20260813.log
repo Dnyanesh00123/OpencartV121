@@ -1,0 +1,21 @@
+17:19:06.376 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dnyan\Selenium-workspace\OpencartV121\master.xml"
+17:19:07.137 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dnyan\Selenium-workspace\OpencartV121\master.xml
+
+17:19:11.607 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+17:19:11.779 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+17:19:12.354 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+17:19:12.385 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+17:19:14.513 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+17:19:24.571 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+17:19:24.571 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs..
+17:21:35.025 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dnyan\Selenium-workspace\OpencartV121\test-output\testng-failed.xml"
+17:21:35.231 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dnyan\Selenium-workspace\OpencartV121\test-output\testng-failed.xml
+
+17:21:38.210 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest***
+17:21:38.329 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+17:21:38.801 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+17:21:38.805 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+17:21:41.038 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+17:21:45.099 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001_AccountRegistrationTest Finished***
